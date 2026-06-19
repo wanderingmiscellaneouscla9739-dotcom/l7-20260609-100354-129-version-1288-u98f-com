@@ -1,0 +1,11 @@
+{
+  "name": "欧美电影在线观看网站排行榜 - 永久免费高清电影 | 多设备播放离线缓存",
+  "short_name": "欧美电影网",
+  "description": "欧美电影在线观看网站排行榜，永久免费提供最新好莱坞大片、经典欧美电影高清在线观看。支持多设备播放与离线缓存，流畅播放体验，精选欧美电影资源。",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#020617",
+  "theme_color": "#10b981",
+  "lang": "zh-CN",
+  "movie_count": 2000
+}
